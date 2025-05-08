@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Hirak Deb Nath</h1>
 <h3 align="center">A passionate Mobile App Developer (Android + iOS) and AI Enthusiast from India</h3>
-<h3 align="center">Currently working at Accenture as an AI/ML Computational Science Associate </h3>
+<h3 align="center">Currently working at Best Buy as an Software Engineer 1 </h3>
 
 <p align="left"> <a href="https://twitter.com/hirakdebnath12" target="blank"><img src="https://img.shields.io/twitter/follow/hirakdebnath12?logo=twitter&style=for-the-badge" alt="hirakdebnath12" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
