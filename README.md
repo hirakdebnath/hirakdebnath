@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Android Projects + IOS Projects**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **SwiftUI and React Native **
 
 - 💬 Ask me about **Java,SQL,Data Structure and Algorithms,Python,Pandas,Numpy,Tensor flow,Kotlin,Swift**
 
